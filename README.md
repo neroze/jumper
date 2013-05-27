@@ -1,1 +1,0 @@
-This my new read me file for new git project with GUI
